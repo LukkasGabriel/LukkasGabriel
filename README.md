@@ -17,6 +17,7 @@
 - Power Bi
 - SQL
 - Python
+- Pandas
 
 
 <picture>
