@@ -11,13 +11,15 @@
   </a>
 </div>
 
-### Technologies i use
+### What I work with
 
-- Microsoft Excel
-- Power Bi
-- SQL
-- Python
-- Pandas
+- Python automation scripts
+- Web scraping and data extraction
+- Google Maps / API integrations
+- Lead generation systems
+- Data cleaning and processing
+- CSV / Excel data pipelines
+- Business intelligence data preparation
 
 
 <picture>
